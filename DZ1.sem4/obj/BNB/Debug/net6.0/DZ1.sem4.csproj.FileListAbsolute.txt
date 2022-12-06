@@ -1,0 +1,15 @@
+C:\Users\1\DOM.ZAD.4\DZ1.sem4\bin\BNB\Debug\net6.0\DZ1.sem4.exe
+C:\Users\1\DOM.ZAD.4\DZ1.sem4\bin\BNB\Debug\net6.0\DZ1.sem4.deps.json
+C:\Users\1\DOM.ZAD.4\DZ1.sem4\bin\BNB\Debug\net6.0\DZ1.sem4.runtimeconfig.json
+C:\Users\1\DOM.ZAD.4\DZ1.sem4\bin\BNB\Debug\net6.0\DZ1.sem4.dll
+C:\Users\1\DOM.ZAD.4\DZ1.sem4\bin\BNB\Debug\net6.0\DZ1.sem4.pdb
+C:\Users\1\DOM.ZAD.4\DZ1.sem4\obj\BNB\Debug\net6.0\DZ1.sem4.csproj.AssemblyReference.cache
+C:\Users\1\DOM.ZAD.4\DZ1.sem4\obj\BNB\Debug\net6.0\DZ1.sem4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\DOM.ZAD.4\DZ1.sem4\obj\BNB\Debug\net6.0\DZ1.sem4.AssemblyInfoInputs.cache
+C:\Users\1\DOM.ZAD.4\DZ1.sem4\obj\BNB\Debug\net6.0\DZ1.sem4.AssemblyInfo.cs
+C:\Users\1\DOM.ZAD.4\DZ1.sem4\obj\BNB\Debug\net6.0\DZ1.sem4.csproj.CoreCompileInputs.cache
+C:\Users\1\DOM.ZAD.4\DZ1.sem4\obj\BNB\Debug\net6.0\DZ1.sem4.dll
+C:\Users\1\DOM.ZAD.4\DZ1.sem4\obj\BNB\Debug\net6.0\refint\DZ1.sem4.dll
+C:\Users\1\DOM.ZAD.4\DZ1.sem4\obj\BNB\Debug\net6.0\DZ1.sem4.pdb
+C:\Users\1\DOM.ZAD.4\DZ1.sem4\obj\BNB\Debug\net6.0\DZ1.sem4.genruntimeconfig.cache
+C:\Users\1\DOM.ZAD.4\DZ1.sem4\obj\BNB\Debug\net6.0\ref\DZ1.sem4.dll
